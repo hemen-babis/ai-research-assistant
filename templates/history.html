@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>History - AI Assistant</title>
+</head>
+<body>
+    <h1>Saved Histories</h1>
+    <ul>
+        {% for pdf in pdfs %}
+            <li><a href="/history/{{ pdf }}">{{ pdf }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

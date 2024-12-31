@@ -1,0 +1,232 @@
+ 
+ 
+Page 1 of 7 
+CS 314 – Elements of Software Engineering 
+Fall 2024 
+ 
+Instructor 
+Chris Gilmore 
+Office 
+FAB 120-01 
+Office Hours 
+The hour before class and by appointment 
+Email 
+grimjack@pdx.edu 
+CRN 
+10792 
+Credits 
+4 
+Location 
+FAB 10 
+Meeting 
+Schedule 
+Monday/Wednesday 18:40-20:30 
+Course Objective 
+• To study techniques for software development from problem specification 
+through design, implementation, testing, and maintenance 
+Course Outcomes/Learning Objectives 
+• To train students in developing medium-scale software, and to give practice 
+in such a project. The purpose is to prepare them for projects in 
+subsequent courses. 
+• Upon the successful completion of this class, students will be able to: 
+o Recognize the stakeholders in any software project. 
+o Separate software development into independent phases for the 
+purpose of controlling the process. 
+o Participate in a developer-customer dialog about requirements for a 
+particular software system. 
+o Design software to solve a problem of small- to medium complexity 
+and express the design formally. 
+o Develop a Validation & Verification Plan using an appropriate 
+combination of inspection, testing and formal methods. 
+
+
+ 
+Page 2 of 7 
+o Using iterative enhancement, implement a software design to create 
+a working system that must pass a user acceptance test, correcting 
+any failures discovered. 
+o Understand the difference between black-box, clear-box and gray-
+box testing, and explain the significance of test coverage for each of 
+these. 
+o Use basic software tools to aid in software development. 
+Course Prerequisites 
+• Programming skills (CS 161, 162, 163, and 202) in a high-level language  
+Required Materials 
+• Required: Ian Sommerville, Software Engineering 10th Ed., Addison-Wesley. 
+Grading Criteria 
+• Exams: 40% 
+o Midterm & Final 
+• Term project: 40% 
+o The term project will be a group software development project. 
+o The term project will be announced on October 7th 
+o Due Days: 
+§ Requirement Document Due: October 21st 
+§ Design Document Due: November 4th 
+§ Test Plan Due: November 18th 
+§ Project Report and Final Deliverables: December 6th 
+• Homework assignments: 15% 
+• Class and group participation: 5% 
+Flexibility Statement 
+The instructor reserves the right to modify course content and/or substitute 
+assignments and learning activities in response to institutional, weather, or class 
+situations. 
+
+
+ 
+Page 3 of 7 
+Course Calendar/Schedule 
+• The class schedule can be found in Canvas, in the Modules area. 
+Course Attendance and Make-up Policies 
+• Attendance Policy: 
+o Due to new regulations, attendance will be taken at each class 
+• Submission Policy: 
+o Each assignment must be submitted electronically in word or pdf 
+format by 11:59PM on due day. 
+o Each submission must contain the name, email address, and ID of the 
+student, the assignment number, and the date and time of the 
+submission. 
+• Late Policy: 
+o Each student has three late days that they can use during the quarter 
+with no penalty (one assignment three days late, or three 
+assignments one day late, etc.). Once late days are used up, no credit 
+will be given for late assignments. 
+• Collaboration Policy: 
+o You are encouraged to discuss homework problems with your 
+classmates. However, everyone must write up his or her own 
+solution sets. Furthermore, any collaboration must be acknowledged 
+by writing the names of your collaborators on the front page of the 
+assignment. Copied assignments or code, or unacknowledged 
+collaboration will be considered academic misconduct, an ethical 
+breach of trust, and I will deal with such cases harshly. 
+Academics 
+• PSU Grading System 
+Drop/Withdraw Deadlines 
+• Academic calendar 
+
+
+ 
+Page 4 of 7 
+Academic Integrity 
+• Academic integrity is a vital part of the educational experience at PSU. 
+The Student Code of Conduct is the university’s policy on academic 
+dishonesty. A confirmed violation of that code in this course may result in 
+failure of the course. 
+Incomplete Grades Policy 
+• Students do not have a right to receive or demand an Incomplete grade. 
+The option of assigning an Incomplete grade is at the discretion of the 
+instructor when these criteria are met: 
+o Required satisfactory course completion/participation 
+o Reasonable justification for the request 
+o Not sought as a substitute for a poor grade 
+o Presence of a written agreement (such as the Incomplete Contract) 
+o A plan in place to resolve Incomplete status 
+• The Office of the Registrar’s website has the full Incomplete Grades policy.  
+Student Services 
+Disability Access Statement 
+• If you have, or think you may have, a disability that may affect your work in 
+this class and feel you need accommodations, contact the Disability 
+Resource Center to schedule an appointment and initiate a conversation 
+about reasonable accommodations. The DRC is at 116 Smith Memorial 
+Student Union, 1825 SW Broadway; 503-725-4150; drc@pdx.edu. 
+Basic Needs at Portland State 
+• It can be challenging to do your best in class if you have trouble meeting 
+basic needs like safe shelter, sleep, and nutrition. Resource centers across 
+campus are here to provide assistance, referrals, and support. Please 
+contact anyone on this list for assistance: 
+o Basic Needs Hub: basicneedshub@pdx.edu 
+o Portland State Food Pantry: psufp.com or pantry@pdx.edu 
+o C.A.R.E. Program: askdos@pdx.edu, (503) 725-4422 
+o Student Health & Counseling: askshac@pdx.edu, (503) 725-2800 
+ 
+
+
+ 
+Page 5 of 7 
+Understanding Sexual Misconduct 
+• PSU desires to create a safe campus. As part of that mission, PSU requires 
+all students to take the Understanding Sexual Misconduct and Resources 
+learning module. If you or someone you know has been harassed or 
+assaulted, you can find the appropriate resources on PSU’s Sexual 
+Misconduct Response website. 
+Title IX Reporting 
+• Students frequently come to me for assistance in matters not related to the 
+course material. Please be aware that PSU’s policies require instructors to 
+report any instance of sexual harassment, sexual and relationship violence 
+and/or other forms of prohibited discrimination to university officials, who 
+will keep the information private. If you would rather share information 
+about these matters with a PSU staff member who does not have these 
+reporting responsibilities and can keep the information confidential, please 
+use these campus resources: 
+o Confidential Advocates: 503-894-7982 or schedule online (for 
+matters regarding sexual harassment and sexual and relationship 
+violence) 
+o Center for Student Health and Counseling: 1880 SW 6th Avenue 
+#200; 503-725-2800 
+Discrimination and Bias Incidents 
+• The Office of Equity and Compliance (OEC) addresses complaints of 
+discrimination, discriminatory Harassment, and sexual harassment against 
+employees (faculty and staff). If you or someone you know believes they 
+have been discriminated against, you may file a complaint. Someone from 
+the OEC will contact you to discuss how to best address your complaint. 
+• The Bias Review Team (BRT) gathers information on bias incidents that 
+happen on and around campus, and gives resources and support to 
+individuals who experience them. You can report a bias incident you 
+experienced or learned about. A member of the BRT will contact you if you 
+indicate you would like to be contacted. 
+
+
+ 
+Page 6 of 7 
+Religious Accommodations 
+• If you would like to obtain religious accommodations, such as flexibility in 
+attending evening courses or extension on assignments, please contact 
+your instructors. If you need additional assistance, please contact the Office 
+of the Dean of Student Life (DOSL) by emailing askdos@pdx.edu. 
+Cultural Resource Centers 
+• Cultural Resource Centers (CRCs) create a student-centered inclusive 
+environment that enriches the university experience. They honor diversity, 
+explore social justice issues, celebrate cultural traditions, and foster 
+student identities, success, and leadership. They provide opportunities for 
+student leadership, employment, and volunteering; student resources such 
+as computer labs, event, lounge, and study spaces; and extensive 
+programming. All are welcome! 
+o Multicultural Student Center 
+o La Casa Latina Student Center 
+o Native American Student and Community Center 
+o Pan African Commons 
+o Pacific Islander, Asian, and Asian American Student Center 
+o Middle East, North Africa, South Asia Initiative 
+COVID-19 Response 
+• The University has established rules and policies to make the return to the 
+classroom as safe as possible. To learn about Portland State's activities to 
+reduce the spread of COVID-19, visit PSU’s COVID-19 Response page.  
+• If you need advice on testing and/or quarantine, visit The Center for 
+Student Health and Counseling (SHAC)’s COVID-19 FAQ page or call 503-
+725-2800.   
+• Also. please notify me (i.e. your instructor), should you need to miss a class 
+period for any of these reasons so that we can discuss strategies to support 
+your learning during this time. If I become ill or need to quarantine during 
+the term, either I or the department chair will notify you via PSU email 
+about my absence and how course instruction will continue.  
+
+
+ 
+Page 7 of 7 
+Failure to Comply with Any of these Rules 
+• As the instructor of this course, the University has given me the authority to 
+require your compliance with these policies. If you do not comply with 
+these requirements, I may ask you to leave the classroom, or I may need to 
+cancel the class session entirely. 
+• In addition, failure to comply with these requirements may result in a 
+referral to the Office of the Dean of Student Life to consider charges under 
+PSU's Code of Conduct. A student found to have violated a university rule 
+(or rules) through the due process of student conduct might face 
+disciplinary and educational sanctions (or consequences). For a complete 
+list of sanctions, see Section 14 of the Student Code of Conduct & 
+Responsibility. 
+Guidance May Change 
+• Please note that the University rules, policies, and guidance may change at 
+any time at the direction of the CDC, State, or County requirements. Please 
+review the University’s main COVID-19 Response webpage and look for 
+emails from the University on these topics. 
+ 

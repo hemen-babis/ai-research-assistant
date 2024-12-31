@@ -1,5 +1,11 @@
 # Ignore environment variables
 .env
+<<<<<<< HEAD
+=======
+# Ignore virtual environment
+venv/
+
+>>>>>>> 17c3f13 (Ignore virtual environment and remove venv from tracking)
 
 # Python cache and logs
 __pycache__/

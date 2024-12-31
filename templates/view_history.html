@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>History - {{ pdf_name }}</title>
+</head>
+<body>
+    <h1>{{ pdf_name }}</h1>
+    <h2>Summary:</h2>
+    <pre>{{ summary }}</pre>
+    <h2>Chat History:</h2>
+    {% for chat in chat_history %}
+        <p><strong>Q:</strong> {{ chat.question }}</p>
+        <p><strong>A:</strong> {{ chat.answer }}</p>
+        <hr>
+    {% endfor %}
+</body>
+</html>
