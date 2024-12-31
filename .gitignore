@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Python cache and logs
+__pycache__/
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore uploads and generated files
+uploads/
+history/
+*.sqlite3
