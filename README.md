@@ -114,14 +114,9 @@ The **AI Research Assistant** is a powerful and intelligent tool designed to hel
 ---
 
 ## Screenshots
-**Home Page**
-![Home Page](screenshots/home.png)
-
-**Summary Display**
-![Summary Display](screenshots/summary.png)
-
-**History Page**
-![History Page](screenshots/history.png)
+![Screenshot 2024-12-30 203538](https://github.com/user-attachments/assets/aed8773c-dd21-4555-8b9c-8308860525c1)
+![Screenshot 2024-12-30 203551](https://github.com/user-attachments/assets/099ffa58-2e95-46ff-a96f-129d0e81a2ab)
+![image](https://github.com/user-attachments/assets/3d663639-c2d3-42ea-95dc-d6fe494e8a75)
 
 ---
 
